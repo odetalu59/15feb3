@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://blog.qua.st/superjp/sitemap.xml
+Sitemap: https://blog.qua.st/gilajp/sitemap.xml
+Sitemap: https://blog.qua.st/gojekpot/sitemap.xml
+Sitemap: https://blog.qua.st/winstrike69/sitemap.xml
+Sitemap: https://blog.qua.st/jagoan/sitemap.xml
+Sitemap: https://blog.qua.st/kaptenjackpot/sitemap.xml
+Sitemap: https://blog.qua.st/boosterjp/sitemap.xml
+Sitemap: https://blog.qua.st/kerajaanslot/sitemap.xml
+Sitemap: https://blog.qua.st/pakong86/sitemap.xml
+Sitemap: https://blog.qua.st/viral88/sitemap.xml
+Sitemap: https://blog.qua.st/clan4d/sitemap.xml
+Sitemap: https://blog.qua.st/dinamit4d/sitemap.xml
+Sitemap: https://blog.qua.st/elang212/sitemap.xml
+Sitemap: https://blog.qua.st/gori77/sitemap.xml
+Sitemap: https://blog.qua.st/viral4d/sitemap.xml
+Sitemap: https://blog.qua.st/playground88/sitemap.xml
